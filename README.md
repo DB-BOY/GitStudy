@@ -36,14 +36,13 @@
 1. 创建标签
 
 ```
-	git tag v1.0
+git tag v1.0
 ```
 
 2. 操作标签
 
 ```	
-	git show v1.0
-	
+git show v1.0	
 ```
 
 3. 对已提交的打标签
